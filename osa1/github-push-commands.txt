@@ -1,0 +1,12 @@
+git init
+git add [folder name]
+git commit -m "comment"
+git remote add origin <url>
+git push origin main
+
+if doesn't work:
+git pull origin main
+git push origin main
+
+if still won't work:
+git pull --force origin main
